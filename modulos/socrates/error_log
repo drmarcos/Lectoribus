@@ -1,0 +1,5 @@
+[23-Sep-2013 16:22:15 UTC] PHP Fatal error:  Call to a member function abreForm() on a non-object in /home2/eadgames/public_html/soordle.org/demo/lectoribus/modulos/socrates/monta_form.php on line 80
+[30-Jan-2014 09:57:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function abreForm() on a non-object in /home2/eadgames/public_html/soordle.org/demo/lectoribus/modulos/socrates/monta_form.php on line 80
+[03-Feb-2014 10:17:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function abreForm() on a non-object in /home2/eadgames/public_html/soordle.org/demo/lectoribus/modulos/socrates/monta_form.php on line 80
+[07-Feb-2014 16:09:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function abreForm() on a non-object in /home2/eadgames/public_html/soordle.org/demo/lectoribus/modulos/socrates/monta_form.php on line 80
+[23-Mar-2014 22:38:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function abreForm() on a non-object in /home2/eadgames/public_html/soordle.org/demo/lectoribus/modulos/socrates/monta_form.php on line 80

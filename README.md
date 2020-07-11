@@ -1,6 +1,8 @@
 # Lectoribus
 Sistema web multi-idioma de criações de tarefas e aplicação de questionários baseados nos texto publicados pelo educador online de dados em XML  (não usa banco de dados)
+
 Multi-language web system for creating online tasks using XML data (does not use a database)
+
 @		Autor: 	Oliveira M.J.N
 @		Contato: <soordle#gmail.com>							                     								 	 
 @       ® todos os direitos reservados desde 2007  

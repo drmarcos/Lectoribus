@@ -1,8 +1,5 @@
 # Lectoribus
 Sistema web multi-idioma de criações de tarefas online de dados em XML  (não usa banco de dados)
-# Xamaleon
-Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.1
-
 
 @		Autor: 	Oliveira M.J.N
 @		Contato: <soordle#gmail.com>							                     								 	 

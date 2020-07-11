@@ -1,6 +1,6 @@
 # Lectoribus
 Sistema web multi-idioma de criações de tarefas e aplicação de questionários baseados nos texto publicados pelo educador online de dados em XML  (não usa banco de dados)
-
+Multi-language web system for creating online tasks using XML data (does not use a database)
 @		Autor: 	Oliveira M.J.N
 @		Contato: <soordle#gmail.com>							                     								 	 
 @       ® todos os direitos reservados desde 2007  
@@ -29,6 +29,8 @@ Sistema web multi-idioma de criações de tarefas e aplicação de questionário
 Este sistema de cadastros foi desenvolvido usando PHP versão 5.3.8.
 É um recurso complementar de uso paralelo ao seu sistema principal, um apêndice do sistema SOORDLE que pode ser usado em qualquer sistema sem problema algum.
 Uma ferramenta auxiliar e alternativa para EAD (Ensino a Distância)
+
+
 
 INSTALAÇÃO : 
 -------------------------------
